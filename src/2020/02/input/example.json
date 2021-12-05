@@ -1,0 +1,17 @@
+[
+{ "left": 1,
+  "right": 3,
+  "char": "a",
+  "password": "abcde"
+},
+{ "left": 1,
+  "right": 3,
+  "char": "b",
+  "password": "cdefg"
+},
+{ "left": 2,
+  "right": 9,
+  "char": "c",
+  "password": "ccccccccc"
+}
+]
